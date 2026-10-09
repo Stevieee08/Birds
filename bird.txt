@@ -1,0 +1,10 @@
+1. Parrot
+2. Peacock
+3. Pigeon
+4. Eagle
+5. Crow
+6. Sparrow
+7. Owl
+8. Duck
+9. Kingfisher
+10. Flamingo
